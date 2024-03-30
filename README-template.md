@@ -37,6 +37,9 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
+First i got style declarations into the html-document by using :root-Variables for the colors.
+Defining Font via embed Google Font Outline in Head and defining body-tag for font-family and classes for regular and bold.
+
 
 ### Built with
 
