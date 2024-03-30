@@ -22,7 +22,10 @@
 
     body {
       font-family: "Outfit", sans-serif;
+      background-color: var(--light-gray);
         }
+
+
 
     .outfit-regular {
       font-weight: 400;
@@ -33,17 +36,29 @@
     }
 
     p {font-size: 15px;}
+
+    #container {
+      padding: 1%;
+      border-radius: 5%;
+      display: flexbox;
+      background-color: var(--white);
+      max-width: 375px;
+    }
+
+    img {
+      max-width: 100%;
+      border-radius: 10px;
+      object-fit: cover;
+      
+    }
   </style>
 </head>
 <body>
 
-  Improve your front-end skills by building projects
-
-  Scan the QR code to visit Frontend Mentor and take your coding skills to the next level
-  
-  <div class="outfit-regular">
-    <p>Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>.</p> 
-    Coded by <a href="#">Your Name Here</a>.
-  </div>
+ <div id="container">
+  <img src="./images/image-qr-code.png" alt="QR-Code">
+  <h1>Improve your front-end skills by building projects</h1>
+  <p>Scan the QR code to visit Frontend Mentor and take your coding skills to the next level</p>
+ </div>
 </body>
 </html>

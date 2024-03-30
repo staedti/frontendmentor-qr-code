@@ -40,6 +40,12 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 First i got style declarations into the html-document by using :root-Variables for the colors.
 Defining Font via embed Google Font Outline in Head and defining body-tag for font-family and classes for regular and bold.
 
+After then i building the structure of the body:
+div with id "container" to catch Image, H1 and Paragraph
+Embedding QR-Code-Image with img-tag
+Writing H1
+Writing p
+Styling container with white background, aligning with flexbox.
 
 ### Built with
 
