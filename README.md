@@ -6,6 +6,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - [Overview](#overview)
   - [Screenshot](#screenshot)
+  - [Live Site](#live-site)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -18,6 +19,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Screenshot
 
 ![Screenshot of Desktop Version](./design/completed-task.png)
+
+### Live Site
+
+[Github Pages](https://staedti.github.io/frontendmentor-qr-code/)
 
 ## My process
 First i got style declarations into the html-document by using :root-Variables for the colors.
